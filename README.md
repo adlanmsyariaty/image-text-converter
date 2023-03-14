@@ -1,5 +1,6 @@
 # IMAGE-TEXT CONVERTER
 
+### Tech stack: Google Cloud - Google Drive API & Google Vision API
 
 ### This program will generate two output text files, one for english type and the other one for chinese type, that extracted from image files.
 1. The program will find images files in "Digital SawitPRO - Test" Folder (Link - https://drive.google.com/drive/u/0/folders/1drMZ2klEhBYPSZSBIxYoV_aSSBEIe68y).
