@@ -14,7 +14,6 @@ public class Constants {
     public static final String GOOGLE_OAUTH_PATH = "/credentials.json";
     public static final List<String> SCOPES = Collections.singletonList(DriveScopes.DRIVE_READONLY);
     public static final String FOLDER_NAME_IN_GDRIVE = "Digital SawitPRO - Test";
-    public static final String IMAGE_FOLDER_PATH = "src/main/resources/image";
     public static final String NEWLINE_SYMBOL = "\\n";
     public static final String SPACE_SYMBOL = " ";
     public static final String TXT_FORMAT = ".txt";
