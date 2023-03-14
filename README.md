@@ -10,3 +10,6 @@
 
 Note:
 - if you want to run this program, you need to add your Google Cloud Keys at top level (same as the output file level) and add your Google OAuth2 Keys on the resources folder (src/main/recsources). And also create "tokens" folder to store your credential once you are authorized. I also add how the structure file is in the structure_file.jpg
+
+Reference: 
+- How to run the program, you can download in here - https://drive.google.com/drive/u/0/folders/1dkvVZJK74RKkW4yGODuU_az4B1oM2vp_.
